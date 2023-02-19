@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Landing Page/Make Appointment Landing Page'), [:], FailureHandling.STOP_ON_FAILURE)
-
 Username = WebUI.getAttribute(findTestObject('CURA Healthcare Service/Login Page/fld_demo_account_username'), 'value')
 
 Password = WebUI.getAttribute(findTestObject('CURA Healthcare Service/Login Page/fld_demo_account_password'), 'value')
