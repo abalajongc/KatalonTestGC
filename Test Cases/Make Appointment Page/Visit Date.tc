@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Visit Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b7b17ea-ab76-4510-8fe5-6e1dd7027bab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7c4c140-7ac1-434c-93a5-9553f17aa46a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'02/18/2023'</defaultValue>
+      <description></description>
+      <id>f7c4c140-7ac1-434c-93a5-9553f17aa46a</id>
+      <masked>false</masked>
+      <name>visitdate</name>
+   </variable>
+</TestCaseEntity>

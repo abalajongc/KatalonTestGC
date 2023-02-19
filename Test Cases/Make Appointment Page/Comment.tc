@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0b10bec-9e84-4d10-9f46-e77dee45eee0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee4fbcc5-8074-4d61-a167-e634bc659555</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'This is a Test Comment'</defaultValue>
+      <description></description>
+      <id>ee4fbcc5-8074-4d61-a167-e634bc659555</id>
+      <masked>false</masked>
+      <name>commenttext</name>
+   </variable>
+</TestCaseEntity>
